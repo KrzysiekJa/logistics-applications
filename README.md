@@ -11,7 +11,7 @@ K. Jarek, K. Klimczyk
 ```
 
 # Transportation Problem Application:
-Used and modified solution made by [al-Amjad Tawfiq Isstaif](https://github.com/isstaif): [repo-link](https://github.com/isstaif/TransportationProblem).
+Used and modified solution made by [al-Amjad Tawfiq Isstaif](https://github.com/isstaif): [repo-link](https://github.com/isstaif/TransportationProblem). <br />
 ( minimumProfitRule() -modified to-> maximumProfitRule() )
 
 ![](https://github.com/KrzysiekJa/logistics-applications/blob/main/pictures/transportation_problem.png)
