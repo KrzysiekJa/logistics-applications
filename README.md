@@ -11,16 +11,12 @@ K. Jarek, K. Klimczyk
 ```
 
 # Transportation Problem Application:
-```
 Used and modified solution made by [al-Amjad Tawfiq Isstaif](https://github.com/isstaif): [repo-link](https://github.com/isstaif/TransportationProblem).
 ( minimumProfitRule() -modified to-> maximumProfitRule() )
-```
 
-![](https://github.com/KrzysiekJa/logistics-applications/blob/master/pictures/transportation_problem.png)
+![](https://github.com/KrzysiekJa/logistics-applications/blob/main/pictures/transportation_problem.png)
 
 # Linear Programming Application:
-```
-In design of project used solver avelable on [ssclab](https://www.ssclab.org/en/index.html) page.
-```
+In design of project used solver avelable on [ssclab.org](https://www.ssclab.org/en/index.html) page.
 
-![](https://github.com/KrzysiekJa/logistics-applications/blob/master/pictures/linear_programming.png)
+![](https://github.com/KrzysiekJa/logistics-applications/blob/main/pictures/linear_programming.png)
