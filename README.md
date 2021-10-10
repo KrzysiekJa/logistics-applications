@@ -1,5 +1,5 @@
 # logistics-applications
-Applications prepared for subject Operations Research and Logistics.
+Applications prepared for course Operations Research and Logistics.
 
 ### Authors:
 K. Jarek, K. Klimczyk
